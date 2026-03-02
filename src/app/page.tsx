@@ -44,3 +44,8 @@ export default function HomePage() {
     </div>
   )
 }
+/* 
+git add *
+git commit -m "subindo app para produção"
+git push origin main
+*/
